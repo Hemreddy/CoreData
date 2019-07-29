@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  CoreDataSample
+
+  Created by Hemareddy Halli on 5/9/19.
+  Copyright © 2019 Apex Capital Corp. All rights reserved.
+*/
+
+"AddRecord" = "Add Record";
+"AddNewRecord" = "Add a New Record";
+"Save" = "Save";
+"Cancel" = "Cancel";
